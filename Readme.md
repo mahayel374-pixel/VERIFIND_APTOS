@@ -74,4 +74,5 @@ We envision a world where every smartphone becomes a potential lifeline, every c
 ## Contract Details
 
 0x12796274dccba6e169e118ba570850f79a877a3ccb0338cc1ad52906a288a005
-![alt text](<Screenshot 2025-08-14 115528.png>)
+
+<img width="1900" height="895" alt="Screenshot 2025-08-14 115528" src="https://github.com/user-attachments/assets/7af4a47e-8454-402b-b933-c0cb1f9e799c" />
